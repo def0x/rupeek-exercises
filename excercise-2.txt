@@ -1,0 +1,1 @@
+case-study for workshops app is hosted at https://def0x.github.io/workshops-app/
